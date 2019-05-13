@@ -2,10 +2,10 @@
 Calculator using Tiva-C connected with LCD and Keypad
 didn't use tivaware API or any APIs
 
-## hardware schematic
+### hardware schematic
 ![](1.PNG)
 
-## Video Showing the project
+### Video Showing the project
 [Click here](https://www.youtube.com/watch?v=WBQR2-7qohE&feature=youtu.be)
 
 
