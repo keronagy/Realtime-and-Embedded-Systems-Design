@@ -1,0 +1,30 @@
+Dependencies for Project 'MicroProject', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_TM4C123.s)(0x5A17232C)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (.\main.c)(0x5A172562)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil\ARM\Inc\TI\TM4C123\tm4c123gh6pm.h)(0x5A16254C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4.h)(0x532C4C22)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C4C22)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C4C22)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x532C4C22)
+I (C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h)(0x532C4878)
+I (tm4c123gh.h)(0x59FA7BE8)
+I (LCDHeader.h)(0x5A166475)
+I (delay.h)(0x5A1613E5)
+I (keypad.h)(0x5A1613B4)
+I (C:\Keil\ARM\ARMCC\include\math.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x59FB5E8F)
+F (.\Delay.c)(0x5A161210)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\delay.o --omf_browse .\delay.crf --depend .\delay.d)
+F (.\inialization.c)(0x5A16AFF7)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\inialization.o --omf_browse .\inialization.crf --depend .\inialization.d)
+I (C:\Users\Kord\Desktop\project\tm4c123gh.h)(0x59FA7BE8)
+I (LCDHeader.h)(0x5A166475)
+F (.\keypad.c)(0x5A166298)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\keypad.o --omf_browse .\keypad.crf --depend .\keypad.d)
+I (tm4c123gh.h)(0x59FA7BE8)
+I (delay.h)(0x5A1613E5)
+F (.\lcd.c)(0x5A16669C)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\lcd.o --omf_browse .\lcd.crf --depend .\lcd.d)
+I (C:\Users\Kord\Desktop\project\tm4c123gh.h)(0x59FA7BE8)
+I (delay.h)(0x5A1613E5)
+F (.\tm4c123gh.h)(0x59FA7BE8)()
+F (.\Portf.h)(0x5A16AE7A)()
